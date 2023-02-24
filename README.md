@@ -1,1 +1,2 @@
-# Group-5-DOM-Game
+# Adrenaline Junkies
+>A project created by DevDudes, Adrenaline Junkies: A 2D 8-bit pixelated game where you must race against other track runners and keep your adrenaline meter at peak level to achieve maximum speed. To play, use the left and right keys to sprint, but be careful not to go too fast or you'll trip and fall behind. Keep your rhythm steady to increase your adrenaline meter and gain an advantage over your opponents. As you progress through the game, you'll encounter new challenges and obstacles that will test your skills and reflexes. With the hunger to win and a plethora of levels to explore, Adrenaline Junkies offers endless hours of addictive gameplay. Are you ready to become the ultimate adrenaline junkie?
